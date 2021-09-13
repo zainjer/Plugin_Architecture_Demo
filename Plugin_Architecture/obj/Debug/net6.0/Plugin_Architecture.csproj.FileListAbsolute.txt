@@ -1,0 +1,16 @@
+C:\Users\Areeb\Desktop\Plugin_Architecture\bin\Debug\net6.0\Plugin_Architecture.exe
+C:\Users\Areeb\Desktop\Plugin_Architecture\bin\Debug\net6.0\Plugin_Architecture.deps.json
+C:\Users\Areeb\Desktop\Plugin_Architecture\bin\Debug\net6.0\Plugin_Architecture.runtimeconfig.json
+C:\Users\Areeb\Desktop\Plugin_Architecture\bin\Debug\net6.0\Plugin_Architecture.dll
+C:\Users\Areeb\Desktop\Plugin_Architecture\bin\Debug\net6.0\Plugin_Architecture.pdb
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.csproj.AssemblyReference.cache
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.AssemblyInfoInputs.cache
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.AssemblyInfo.cs
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.ImplicitNamespaceImports.cs
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.dll
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\refint\Plugin_Architecture.dll
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.pdb
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\Plugin_Architecture.genruntimeconfig.cache
+C:\Users\Areeb\Desktop\Plugin_Architecture\obj\Debug\net6.0\ref\Plugin_Architecture.dll

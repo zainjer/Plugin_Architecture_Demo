@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Plugin_B</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Plugin_Architecture">
+      <HintPath>..\Plugin_Architecture\bin\Debug\net6.0\Plugin_Architecture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

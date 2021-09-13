@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Plugin-B/1.0.0": {
+        "dependencies": {
+          "Plugin_Architecture": "1.0.0.0"
+        },
+        "runtime": {
+          "Plugin-B.dll": {}
+        }
+      },
+      "Plugin_Architecture/1.0.0.0": {
+        "runtime": {
+          "Plugin_Architecture.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plugin-B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Plugin_Architecture/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

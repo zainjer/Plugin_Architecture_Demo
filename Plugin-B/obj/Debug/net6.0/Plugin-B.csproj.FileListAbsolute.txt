@@ -1,0 +1,16 @@
+C:\Users\Areeb\Desktop\Plugin-B\bin\Debug\net6.0\Plugin-B.deps.json
+C:\Users\Areeb\Desktop\Plugin-B\bin\Debug\net6.0\Plugin-B.dll
+C:\Users\Areeb\Desktop\Plugin-B\bin\Debug\net6.0\Plugin-B.pdb
+C:\Users\Areeb\Desktop\Plugin-B\bin\Debug\net6.0\Plugin_Architecture.dll
+C:\Users\Areeb\Desktop\Plugin-B\bin\Debug\net6.0\Plugin_Architecture.pdb
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.csproj.AssemblyReference.cache
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.AssemblyInfoInputs.cache
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.AssemblyInfo.cs
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.ImplicitNamespaceImports.cs
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.dll
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\refint\Plugin-B.dll
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.pdb
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\ref\Plugin-B.dll
+C:\Users\Areeb\Desktop\Plugin-B\obj\Debug\net6.0\Plugin-B.csproj.CopyComplete
